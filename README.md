@@ -4,4 +4,8 @@
 - [X] car driving physics
 - [ ] car textures
 - [ ] timer system
-- [ ] checkpoints 
+- [ ] checkpoints
+- [ ] environment setup
+- [ ] npc cars
+- [ ] speedometer
+- [ ] UI system

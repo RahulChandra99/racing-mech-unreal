@@ -3,7 +3,7 @@
 - [X] car import
 - [X] car driving physics
 - [ ] car textures
-- [ ] timer system
+- [X] timer system
 - [ ] checkpoints
 - [ ] environment setup
 - [ ] npc cars
